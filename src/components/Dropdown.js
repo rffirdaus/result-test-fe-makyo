@@ -101,7 +101,7 @@ const Dropdown = ({
   };
 
   return (
-    <div className="flex items-center">
+    <div className="flex items-center px-8 py-8">
       <p className="mr-16">Label</p>
       <div className="relative w-full">
         <div
